@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(72, 75, 233);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container{
+    display: flex;
+    box-shadow:#333;
+    border-radius: 10px;
+    width: 50%;
+    overflow: hidden;
+    height: 50%;
+    text-align: center;
+}
+
+.rec{
+    background-color: beige;
+}
